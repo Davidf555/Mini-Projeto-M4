@@ -1,0 +1,11 @@
+{
+  "name": "mini-projeto-m4",
+  "version": "1.0.0",
+  "description": "Mini Projeto M4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davi",
+  "license": "ISC"
+}
