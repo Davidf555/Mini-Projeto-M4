@@ -20,7 +20,7 @@ const {
     santaCatarina,
     saoPaulo,
     sergipe
-} = require('../models/banco');
+} = require('../models/banco.js');
 
 const express = require('express');
 const router = express.Router();
